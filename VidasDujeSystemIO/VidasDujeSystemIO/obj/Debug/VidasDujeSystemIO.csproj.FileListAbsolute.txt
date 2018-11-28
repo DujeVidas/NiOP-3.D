@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\bin\Debug\VidasDujeSystemIO.exe.config
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\bin\Debug\VidasDujeSystemIO.exe
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\bin\Debug\VidasDujeSystemIO.pdb
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\obj\Debug\VidasDujeSystemIO.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\obj\Debug\VidasDujeSystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\obj\Debug\VidasDujeSystemIO.exe
+C:\Users\Učenik\source\repos\VidasDujeSystemIO\VidasDujeSystemIO\obj\Debug\VidasDujeSystemIO.pdb
