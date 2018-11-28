@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\bin\Debug\VidasDujeDoNoveGodine.exe.config
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\bin\Debug\VidasDujeDoNoveGodine.exe
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\bin\Debug\VidasDujeDoNoveGodine.pdb
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\obj\Debug\VidasDujeDoNoveGodine.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\obj\Debug\VidasDujeDoNoveGodine.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\obj\Debug\VidasDujeDoNoveGodine.exe
+C:\Users\Učenik\source\repos\VidasDujeDoNoveGodine\VidasDujeDoNoveGodine\obj\Debug\VidasDujeDoNoveGodine.pdb
