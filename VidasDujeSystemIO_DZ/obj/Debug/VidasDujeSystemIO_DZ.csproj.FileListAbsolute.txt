@@ -1,0 +1,7 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\bin\Debug\VidasDujeSystemIO_DZ.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\bin\Debug\VidasDujeSystemIO_DZ.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\bin\Debug\VidasDujeSystemIO_DZ.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\obj\Debug\VidasDujeSystemIO_DZ.csprojAssemblyReference.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\obj\Debug\VidasDujeSystemIO_DZ.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\obj\Debug\VidasDujeSystemIO_DZ.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeSystemIO_DZ\VidasDujeSystemIO_DZ\obj\Debug\VidasDujeSystemIO_DZ.pdb
