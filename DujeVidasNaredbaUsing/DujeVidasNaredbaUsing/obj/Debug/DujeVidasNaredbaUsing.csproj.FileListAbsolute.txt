@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\bin\Debug\DujeVidasNaredbaUsing.exe.config
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\bin\Debug\DujeVidasNaredbaUsing.exe
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\bin\Debug\DujeVidasNaredbaUsing.pdb
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\obj\Debug\DujeVidasNaredbaUsing.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\obj\Debug\DujeVidasNaredbaUsing.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\obj\Debug\DujeVidasNaredbaUsing.exe
+C:\Users\Učenik\source\repos\DujeVidasNaredbaUsing\DujeVidasNaredbaUsing\obj\Debug\DujeVidasNaredbaUsing.pdb
