@@ -1,0 +1,11 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\bin\Debug\VidasDujePictureBox.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\bin\Debug\VidasDujePictureBox.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\bin\Debug\VidasDujePictureBox.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.csprojAssemblyReference.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujePictureBox\VidasDujePictureBox\obj\Debug\VidasDujePictureBox.O_Programu.resources
