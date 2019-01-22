@@ -1,0 +1,10 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\bin\Debug\VidasDujeTimerComponent.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\bin\Debug\VidasDujeTimerComponent.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\bin\Debug\VidasDujeTimerComponent.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTimerComponent\VidasDujeTimerComponent\obj\Debug\VidasDujeTimerComponent.O_Programu.resources
