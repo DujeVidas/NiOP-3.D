@@ -1,0 +1,10 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\bin\Debug\VidasDujeTrackBar.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\bin\Debug\VidasDujeTrackBar.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\bin\Debug\VidasDujeTrackBar.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeTrackBar\VidasDujeTrackBar\obj\Debug\VidasDujeTrackBar.O_Programu.resources
