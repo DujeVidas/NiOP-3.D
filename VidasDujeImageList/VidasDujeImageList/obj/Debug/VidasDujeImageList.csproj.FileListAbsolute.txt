@@ -1,0 +1,10 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\bin\Debug\VidasDujeImageList.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\bin\Debug\VidasDujeImageList.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\bin\Debug\VidasDujeImageList.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeImageList\VidasDujeImageList\obj\Debug\VidasDujeImageList.O_Programu.resources
