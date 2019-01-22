@@ -1,0 +1,11 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.csprojAssemblyReference.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\bin\Debug\VidasDujeRichTextBoxDZ.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\bin\Debug\VidasDujeRichTextBoxDZ.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\bin\Debug\VidasDujeRichTextBoxDZ.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeRichTextBoxDZ\VidasDujeRichTextBoxDZ\obj\Debug\VidasDujeRichTextBoxDZ.O_Programu.resources
