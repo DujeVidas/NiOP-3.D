@@ -1,0 +1,10 @@
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\bin\Debug\VidasDujeContextMenuStrip.exe.config
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\bin\Debug\VidasDujeContextMenuStrip.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\bin\Debug\VidasDujeContextMenuStrip.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.Form1.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.Properties.Resources.resources
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.exe
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.pdb
+C:\Users\ASUSvivoBook\source\repos\VidasDujeContextMenuStrip\VidasDujeContextMenuStrip\obj\Debug\VidasDujeContextMenuStrip.O_Programu.resources
