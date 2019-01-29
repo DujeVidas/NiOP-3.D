@@ -1,0 +1,11 @@
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.csprojAssemblyReference.cache
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.Form1.resources
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.Properties.Resources.resources
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.csproj.GenerateResource.cache
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\bin\Debug\VidasDuje_MonthCalendar.exe.config
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\bin\Debug\VidasDuje_MonthCalendar.exe
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\bin\Debug\VidasDuje_MonthCalendar.pdb
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.exe
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.pdb
+C:\Users\dujev\source\repos\VidasDuje_MonthCalendar\VidasDuje_MonthCalendar\obj\Debug\VidasDuje_MonthCalendar.O_Programu.resources
