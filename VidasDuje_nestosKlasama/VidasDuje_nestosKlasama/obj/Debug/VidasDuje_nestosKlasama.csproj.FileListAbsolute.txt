@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\bin\Debug\VidasDuje_nestosKlasama.exe.config
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\bin\Debug\VidasDuje_nestosKlasama.exe
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\bin\Debug\VidasDuje_nestosKlasama.pdb
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\obj\Debug\VidasDuje_nestosKlasama.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\obj\Debug\VidasDuje_nestosKlasama.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\obj\Debug\VidasDuje_nestosKlasama.exe
+C:\Users\Učenik\source\repos\VidasDuje_nestosKlasama\VidasDuje_nestosKlasama\obj\Debug\VidasDuje_nestosKlasama.pdb
