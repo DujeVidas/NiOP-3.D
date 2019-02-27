@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\bin\Debug\VidasDuje_ZadnjiZadatak.exe.config
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\bin\Debug\VidasDuje_ZadnjiZadatak.exe
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\bin\Debug\VidasDuje_ZadnjiZadatak.pdb
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\obj\Debug\VidasDuje_ZadnjiZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\obj\Debug\VidasDuje_ZadnjiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\obj\Debug\VidasDuje_ZadnjiZadatak.exe
+C:\Users\Učenik\source\repos\VidasDuje_ZadnjiZadatak\VidasDuje_ZadnjiZadatak\obj\Debug\VidasDuje_ZadnjiZadatak.pdb
